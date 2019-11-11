@@ -1,3 +1,6 @@
+# Useful link for TFRecords creation
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/using_your_own_dataset.md
+
 # TensorFlow Models
 
 This repository contains a number of different models implemented in [TensorFlow](https://www.tensorflow.org):
