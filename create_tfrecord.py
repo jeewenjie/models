@@ -25,7 +25,7 @@ dict = {0:'hh',
         5:'chanel',
         6:'nike',
         7:'mk',
-        8:'adidas',
+        8:'adidas0',
         9:'supreme'}
 
 def create_tf_example(line):
