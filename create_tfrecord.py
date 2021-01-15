@@ -17,16 +17,16 @@ flags.DEFINE_string('data_root','','Root of data directory')
 flags.DEFINE_string('dataset','','Name of dataset')
 FLAGS = flags.FLAGS
 
-dict = {0:'mk',
-        1:'gucci',
-        2:'chanel',
-        3:'supreme',
-        4:'adidas0',
-        5:'puma',
+dict = {0:'hh',
+        1:'puma',
+        2:'gucci',
+        3:'lacoste',
+        4:'prada',
+        5:'chanel',
         6:'nike',
-        7:'prada',
-        8:'lacoste',
-        9:'hh'}
+        7:'mk',
+        8:'adidas',
+        9:'supreme'}
 
 def create_tf_example(line):
   # TODO(user): Populate the following variables from your example.
